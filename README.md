@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT16_NUM_EXPONENT_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-exponent-bits@deno/mod.js';
+import FLOAT16_NUM_EXPONENT_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-exponent-bits@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT16_NUM_EXPONENT_BITS
@@ -71,7 +71,7 @@ var bool = ( FLOAT16_NUM_EXPONENT_BITS === 5 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT16_NUM_EXPONENT_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-exponent-bits@deno/mod.js';
+import FLOAT16_NUM_EXPONENT_BITS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-num-exponent-bits@v0.1.0-deno/mod.js';
 
 console.log( FLOAT16_NUM_EXPONENT_BITS );
 // => 5
